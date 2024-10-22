@@ -17,3 +17,5 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+
+Untuk ke dashboard dimana terdapat fitur CRUD dapat melalui <url>/admin lalu login atau buat akun jika belum ada akun.
